@@ -27,7 +27,7 @@ de compra e identificar fatores que impactam a satisfação do cliente.
 
 ## 👤 Autor
 Jefferson Correia - Analista Financeiro em transição para Ciência de Dados
-📧 jefferson.correia.comercial@gmail.com
+📧jefferson.correia.comercial@gmail.com
 
 ---
 🚧 **Status:** Em desenvolvimento ativo
